@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Informe Taller BI - Juegos Olimpicos</title>
+<style>
+body { font-family: Segoe UI, Arial, sans-serif; color:#20242a; max-width:980px; margin:32px auto; line-height:1.55; padding:0 20px; }
+h1,h2 { color:#1f3b4d; } table { border-collapse:collapse; width:100%; margin:16px 0; }
+th,td { border:1px solid #d9dee5; padding:8px; text-align:left; } th { background:#eef2f5; }
+img { max-width:100%; border:1px solid #d9dee5; border-radius:6px; margin:10px 0 22px; }
+.kpi { display:inline-block; min-width:140px; padding:10px 12px; border:1px solid #d9dee5; border-radius:8px; margin:4px; background:#f8fafb; }
+.kpi span { display:block; color:#66707c; font-size:12px; } .kpi strong { font-size:22px; }
+code { background:#f3f5f7; padding:2px 4px; border-radius:4px; }
+</style></head><body>
+<h1>Informe del Proyecto BI - Juegos Olimpicos</h1>
+<h2>Objetivo</h2><p>Desarrollar un proceso completo de analitica de datos sobre Juegos Olimpicos usando Microsoft BI y Python.</p>
+<h2>Fuentes de datos</h2>
+<table><tr><th>Archivo</th><th>Filas</th><th>Rol</th></tr>
+<tr><td>Athletes_Games.csv</td><td>187,433</td><td>Dimension Atleta</td></tr>
+<tr><td>Edition_Games.csv</td><td>52</td><td>Dimension Edicion</td></tr>
+<tr><td>equipos_Games.csv</td><td>1,231</td><td>Dimension Equipo/NOC</td></tr>
+<tr><td>Events_Olimpycs.csv</td><td>269,798</td><td>Fuente enriquecida</td></tr>
+<tr><td>JJ.OO.csv</td><td>269,798</td><td>Hechos de participacion</td></tr></table>
+<h2>Modelo analitico</h2><p>Modelo estrella con <code>fact_participacion</code> como tabla de hechos y dimensiones de atleta, equipo, edicion y competencia.</p>
+<div class="kpi"><span>Participaciones</span><strong>269,798</strong></div>
+<div class="kpi"><span>Medallas</span><strong>39,773</strong></div>
+<div class="kpi"><span>Oro</span><strong>13,369</strong></div>
+<div class="kpi"><span>Plata</span><strong>13,109</strong></div>
+<div class="kpi"><span>Bronce</span><strong>13,295</strong></div>
+<div class="kpi"><span>Tasa medalla</span><strong>14.74%</strong></div>
+<h2>ETL</h2><p>Se limpiaron columnas de texto, se validaron llaves, se construyeron dimensiones y se crearon indicadores de medalla. La carga se realizo en SQLite y CSV para Power BI.</p>
+<h2>Visualizaciones Python</h2>
+<img src="imagenes/top_10_noc_medallas.png" alt="Top NOC por medallas">
+<img src="imagenes/evolucion_medallas_anio.png" alt="Evolucion de medallas por anio">
+<img src="imagenes/top_deportes_medallas.png" alt="Top deportes por medallas">
+<img src="imagenes/participaciones_sexo_anio.png" alt="Participaciones por sexo">
+<h2>Microsoft BI</h2><p>Para SSIS, cargar primero dimensiones y luego la tabla de hechos. Para SSAS, construir el cubo con las dimensiones y medidas indicadas. Para Power BI, usar un KPI, tres visualizaciones y un slicer interactivo.</p>
+<h2>Analisis comparativo</h2>
+<table><tr><th>Criterio</th><th>Microsoft BI</th><th>Python</th></tr>
+<tr><td>Facilidad</td><td>Visual y orientado a negocio.</td><td>Requiere codigo, pero es reproducible.</td></tr>
+<tr><td>Flexibilidad</td><td>Fuerte en modelos gobernados.</td><td>Muy flexible para transformacion y analisis.</td></tr>
+<tr><td>Escalabilidad</td><td>Alta con SQL Server, SSIS y SSAS.</td><td>Alta al integrarse con bases, Spark o nube.</td></tr>
+<tr><td>Aplicabilidad</td><td>Reporting corporativo y dashboards publicados.</td><td>Exploracion, automatizacion y ciencia de datos.</td></tr></table>
+<h2>Conclusion</h2><p>El modelo estrella permite analizar desempeno olimpico por NOC, deporte, evento, anio, temporada y sexo.</p>
+</body></html>

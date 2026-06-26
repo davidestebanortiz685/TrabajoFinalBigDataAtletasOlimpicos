@@ -1,0 +1,1232 @@
+team_id,Team,NOC
+1,China,CHN
+2,Denmark,DEN
+3,Denmark/Sweden,DEN
+4,Netherlands,NED
+5,United States,USA
+6,Finland,FIN
+7,Norway,NOR
+8,Romania,ROU
+9,Estonia,EST
+10,France,FRA
+11,Taifun,NOR
+12,Morocco,MAR
+13,Spain,ESP
+14,Egypt,EGY
+15,Iran,IRI
+16,Bulgaria,BUL
+17,Italy,ITA
+18,Chad,CHA
+19,Azerbaijan,AZE
+20,Sudan,SUD
+21,Russia,RUS
+22,Argentina,ARG
+23,Cuba,CUB
+24,Belarus,BLR
+25,Greece,GRE
+26,Cameroon,CMR
+27,Turkey,TUR
+28,Chile,CHI
+29,Mexico,MEX
+30,Soviet Union,URS
+31,Nicaragua,NCA
+32,Hungary,HUN
+33,Nigeria,NGR
+34,Algeria,ALG
+35,Kuwait,KUW
+36,Bahrain,BRN
+37,Pakistan,PAK
+38,Iraq,IRQ
+39,United Arab Republic,UAR
+40,Lebanon,LIB
+41,Qatar,QAT
+42,Malaysia,MAS
+43,Germany,GER
+44,Thessalonki-1,GRE
+45,Canada,CAN
+46,Ireland,IRL
+47,Australia,AUS
+48,South Africa,RSA
+49,Eritrea,ERI
+50,Tanzania,TAN
+51,Jordan,JOR
+52,Tunisia,TUN
+53,Libya,LBA
+54,Belgium,BEL
+55,Djibouti,DJI
+56,Palestine,PLE
+57,Comoros,COM
+58,Kazakhstan,KAZ
+59,Brunei,BRU
+60,India,IND
+61,Saudi Arabia,KSA
+62,Syria,SYR
+63,Maldives,MDV
+64,Ethiopia,ETH
+65,United Arab Emirates,UAE
+66,North Yemen,YAR
+67,Indonesia,INA
+68,Philippines,PHI
+69,Singapore,SGP
+70,Uzbekistan,UZB
+71,Kyrgyzstan,KGZ
+72,Tajikistan,TJK
+73,Unified Team,EUN
+74,Japan,JPN
+75,Japan-1,JPN
+76,Congo (Brazzaville),CGO
+77,Switzerland,SUI
+78,Brazil,BRA
+79,West Germany,FRG
+80,East Germany,GDR
+81,Monaco,MON
+82,Fornebo,NOR
+83,Israel,ISR
+84,Vesper Boat Club,USA
+85,Uruguay,URU
+86,Sweden,SWE
+87,United States Virgin Islands,ISV
+88,Sri Lanka,SRI
+89,Armenia,ARM
+90,Cote d'Ivoire,CIV
+91,Kenya,KEN
+92,Benin,BEN
+93,France-1,FRA
+94,Ukraine,UKR
+95,Great Britain,GBR
+96,Ghana,GHA
+97,Somalia,SOM
+98,Latvia,LAT
+99,Niger,NIG
+100,Mali,MLI
+101,Afghanistan,AFG
+102,Poland,POL
+103,Costa Rica,CRC
+104,Panama,PAN
+105,Georgia,GEO
+106,Slovenia,SLO
+107,Croatia,CRO
+108,Russia-2,RUS
+109,Russia-1,RUS
+110,Guyana,GUY
+111,New Zealand,NZL
+112,Portugal,POR
+113,Paraguay,PAR
+114,Angola,ANG
+115,Venezuela,VEN
+116,Colombia,COL
+117,Bangladesh,BAN
+118,Peru,PER
+119,El Salvador,ESA
+120,Puerto Rico,PUR
+121,France-2,FRA
+122,Uganda,UGA
+123,Switzerland-2,SUI
+124,Switzerland-1,SUI
+125,Honduras,HON
+126,Ecuador,ECU
+127,Turkmenistan,TKM
+128,Mauritius,MRI
+129,Seychelles,SEY
+130,Czechoslovakia,TCH
+131,Great Britain-1,GBR
+132,Luxembourg,LUX
+133,Mauritania,MTN
+134,Czech Republic,CZE
+135,Saint Kitts and Nevis,SKN
+136,New York Athletic Club #2-4,USA
+137,Trinidad and Tobago,TTO
+138,Dominican Republic,DOM
+139,Saint Vincent and the Grenadines,VIN
+140,Mystery,USA
+141,Jamaica,JAM
+142,Liberia,LBR
+143,Suriname,SUR
+144,Nigeria-2,NGR
+145,Nepal,NEP
+146,Mongolia,MGL
+147,Germany-2,GER
+148,Austria,AUT
+149,Clementine V,BRA
+150,Bylina-2,RUS
+151,Palau,PLW
+152,Lithuania,LTU
+153,Togo,TOG
+154,Namibia,NAM
+155,Netherlands Antilles,AHO
+156,Iceland,ISL
+157,American Samoa,ASA
+158,Samoa,SAM
+159,Rwanda,RWA
+160,Dominica,DMA
+161,Great Britain-2,GBR
+162,Haiti,HAI
+163,Stella-2,NOR
+164,Malta,MLT
+165,United States-1,USA
+166,United States-2,USA
+167,Argentina-2,ARG
+168,"Large boat, Central Naval Prep School ""Poros""-1",GRE
+169,Cyprus,CYP
+170,Guinea,GUI
+171,Xolotl,MEX
+172,Belize,BIZ
+173,Matrero II,ARG
+174,Blue Red,ARG
+175,Gteborgs Roddklubb-1,SWE
+176,Indonesia-1,INA
+177,Germany-1,GER
+178,South Yemen,YMD
+179,South Korea,KOR
+180,Lucky Girl-1,FIN
+181,Mutafo,GER
+182,Sweden-2,SWE
+183,Sweden-1,SWE
+184,Thailand,THA
+185,Italy-2,ITA
+186,Yeoman VII,GBR
+187,Yeoman XII,GBR
+188,Bermuda,BER
+189,Australasia,ANZ
+190,Union des Socits Franais de Sports Athletiques,FRA
+191,Serbia and Montenegro,SCG
+192,Sierra Leone,SLE
+193,Bissbi,SWE
+194,Papua New Guinea,PNG
+195,Greece-3,GRE
+196,Yemen,YEM
+197,Individual Olympic Athletes,IOA
+198,Oman,OMA
+199,Fiji,FIJ
+200,Vanuatu,VAN
+201,France-3,FRA
+202,Martha-27,FRA
+203,Martha-1,FRA
+204,Moldova,MDA
+205,Canada-2,CAN
+206,Canada-1,CAN
+207,Yugoslavia,YUG
+208,Bahamas,BAH
+209,Guatemala,GUA
+210,Burevestnik,URS
+211,Druzhba,URS
+212,Soviet Union-2,URS
+213,Soviet Union-1,URS
+214,Olen,URS
+215,Serbia,SRB
+216,British Virgin Islands,IVB
+217,Mozambique,MOZ
+218,Heatherbell,FIN
+219,Central African Republic,CAF
+220,Madagascar,MAD
+221,Malaya,MAL
+222,Socit Nautique de Bayonne,FRA
+223,Bosnia and Herzegovina,BIH
+224,Guam,GUM
+225,Brazil-1,BRA
+226,Cayman Islands,CAY
+227,Cupidon Viking,FRA
+228,Damoiselle,FRA
+229,Slovakia,SVK
+230,USFSA,FRA
+231,The Cloud,IRL
+232,Galerna,ESP
+233,Heira II,NOR
+234,Nykjbings paa Falster,DEN
+235,Barbados,BAR
+236,Ireland-2,GBR
+237,Spain-2,ESP
+238,Guinea Bissau,GBS
+239,Mohawk Indians-2,CAN
+240,Tornado,SWE
+241,Elsie,SWE
+242,Roma,ITA
+243,Tajamar,ESP
+244,Spain-1,ESP
+245,"Lemzos Thorichton ""Spetsai""-4",GRE
+246,Norway-2,NOR
+247,Norway-1,NOR
+248,Italy-1,ITA
+249,Puerto Rico-2,PUR
+250,Mound City Rowing Club-2,USA
+251,Timor Leste,TLS
+252,Amolgavar,ESP
+253,Congo (Kinshasa),COD
+254,Gabon,GAB
+255,Ali-Baba II,SWE
+256,May Be VII,SWE
+257,East Germany-1,GDR
+258,San Marino,SMR
+259,Favorite Hammonia-3,GER
+260,Laos,LAO
+261,Botswana,BOT
+262,Refugee Olympic Athletes,ROT
+263,Frankfurt Club,GER
+264,Lett,NOR
+265,GyoshuII,CAM
+266,North Korea,PRK
+267,South Korea-2,KOR
+268,Brazil-2,BRA
+269,Solomon Islands,SOL
+270,Dolfijn,BEL
+271,Union des Socits Franais de Sports Athletiques,GBR
+272,Senegal,SEN
+273,Cape Verde,CPV
+274,Tip,DEN
+275,Yugoslavia-1,YUG
+276,rn-2,FIN
+277,Crete,CRT
+278,Breslau,AUT
+279,Germany-3,GER
+280,Romania-2,ROU
+281,Club Nautique de Dieppe-5,FRA
+282,Norna,NOR
+283,Fram,NOR
+284,Magda IX,NOR
+285,Soviet Union-3,URS
+286,Equatorial Guinea,GEQ
+287,Bolivia,BOL
+288,Saar,SAA
+289,Andorra,AND
+290,Japan-2,JPN
+291,Austria-1,AUT
+292,Austria-2,AUT
+293,Antigua and Barbuda,ANT
+294,EA II,FRA
+295,Canada-3,CAN
+296,Czechoslovakia-3,TCH
+297,Linglom,THA
+298,Denmark-2,DEN
+299,Mosk II,NOR
+300,Latvia-2,LAT
+301,Elisabeth X,NOR
+302,Sweden-3,SWE
+303,Ludwigshafener Ruderverein,GER
+304,Australia-2,AUS
+305,Latvia-1,LAT
+306,Guyoni,FRA
+307,Greece-1,GRE
+308,Greece-2,GRE
+309,West Germany-2,FRG
+310,"La Salle Turnverein, Chicago",USA
+311,Gallant,USA
+312,Zimbabwe,ZIM
+313,Grenada,GRN
+314,Hera-1,GBR
+315,Swedish Star,SWE
+316,Bulgaria-1,BUL
+317,Nautikos Omilos-3,GRE
+318,Wolseley-Siddeley-1,GBR
+319,Hong Kong,HKG
+320,Ciocca II,ITA
+321,Mirtala,ITA
+322,Saint Lucia,LCA
+323,Carabinier-5,FRA
+324,Pettit-Poucet-6,FRA
+325,Carabinier-15,FRA
+326,Federated States of Micronesia,FSM
+327,Myanmar,MYA
+328,Hirondelle,MON
+329,Kerstin-1,SWE
+330,Evita VI,AUT
+331,Ukraine-2,UKR
+332,Russia-3,RUS
+333,Malawi,MAW
+334,Belarus-1,BLR
+335,United States-3,USA
+336,Bronia,GER
+337,Zambia,ZAM
+338,Denmark-1,DEN
+339,Bluebottle,GBR
+340,West Germany-1,FRG
+341,Rhodesia,RHO
+342,East Germany-2,GDR
+343,Snap,DEN
+344,Chinese Taipei-1,TPE
+345,Sao Tome and Principe,STP
+346,Toronto Argonauts,CAN
+347,England-1,GBR
+348,Hungaria Evezos Egylet,HUN
+349,Poland-1,POL
+350,Macedonia,MKD
+351,Bohemia,BOH
+352,Argonaut Rowing Club,CAN
+353,"Life boat naval ship ""Spetsai""-1",GRE
+354,Australia-1,AUS
+355,Tonga,TGA
+356,Nigeria-1,NGR
+357,Fortuna,GBR
+358,Starlight III,GBR
+359,Liechtenstein,LIE
+360,Pan,NOR
+361,Montenegro,MNE
+362,Leander Club-2,GBR
+363,"Lemzos Thorichton ""Psara""-3",GRE
+364,London City Police-1,GBR
+365,Great Britain-3,GBR
+366,Sabre,GBR
+367,Firebird II,TTO
+368,Berliner Ruderverein von 1876-2,GER
+369,Christian Brothers' College-1,USA
+370,Czechoslovakia-1,TCH
+371,Czechoslovakia-2,TCH
+372,"Passaic Turnverein, Passaic",USA
+373,Primorka,YUG
+374,Gambia,GAM
+375,Racing Club de France,FRA
+376,Grifo III,POR
+377,Grifo IV,POR
+378,Bingo,USA
+379,Damoiselle IV,MON
+380,Crabe II-12,FRA
+381,Nina Claire-30,FRA
+382,Crabe II-1,FRA
+383,Crabe II-4,FRA
+384,Nina Claire-2,FRA
+385,Qu'Importe,FRA
+386,Konstanz,YUG
+387,Suzy-2,BEL
+388,Mouchette-2,GBR
+389,Dansk Idrts Forbund,DEN
+390,Marmara,TUR
+391,Moseley Wanderers,GBR
+392,Chicago Athletic Association-2,USA
+393,Devon and Somerset Wanderers,GBR
+394,Unified Team-2,EUN
+395,Mistral Hojris,GBR
+396,Cook Islands,COK
+397,Mauritius-2,MRI
+398,Albania,ALB
+399,Romania-1,ROU
+400,Pampero,ARG
+401,Israel-2,ISR
+402,Symphony,POR
+403,Sjhxa,POR
+404,Faneca,POR
+405,Ciocca III,POR
+406,"Marinai della nave da guerra ""Varese""",ITA
+407,Lalage,GBR
+408,Gallia II,RUS
+409,Dinah V,GER
+410,Czech Republic-2,CZE
+411,Nora,NOR
+412,Monica,NOR
+413,Kullan,SWE
+414,Shoveller,RSA
+415,Amateur Athletic Association,GBR
+416,Circus,WIF
+417,Aletta,IRL
+418,Widgeon,USA
+419,Inca,BRA
+420,Czech Republic-1,CZE
+421,Relampago,AUS
+422,Foxhunters Hurlingham,GBR
+423,Thames Rowing Club,GBR
+424,"Davenport Turngemeinde, Davenport",USA
+425,"Norwegier Turnverein, Brooklyn",USA
+426,Erna Signe,SWE
+427,Sirene,NOR
+428,Socit Nautique de Bayonne-2,FRA
+429,Socit Nautique de Bayonne-1,FRA
+430,Anitra,DEN
+431,Snude,DEN
+432,White Lady,DEN
+433,Web II,DEN
+434,Web III,DEN
+435,Italy-3,ITA
+436,Pistoja/Firenze,ITA
+437,West Indies Federation,WIF
+438,Posillipo III,ESP
+439,Tritons Lillois-2,FRA
+440,"Turnverein Vorwrts, Cleveland",USA
+441,Club Nautique de Franais-1,FRA
+442,Monaco-1,MON
+443,Boreas-2,NED
+444,Peri,RHO
+445,"New York Turnverein, New York",USA
+446,Tichiboo,THA
+447,Siames-Cat,THA
+448,Swaziland,SWZ
+449,India-1,IND
+450,Italia,ITA
+451,Ausonia,ITA
+452,Angelita,USA
+453,Burkina Faso,BUR
+454,Nortazo,URU
+455,Tom Kyle,GER
+456,Tilly,GER
+457,Esterel-1,FRA
+458,North Borneo,NBO
+459,Wiking,ARG
+460,Buraddoo,AUS
+461,Heroine,GBR
+462,Burundi,BDI
+463,Chok,DEN
+464,Atlanta,NOR
+465,Germania II,GER
+466,Wannsee,GER
+467,Polyteknisk Roklub-1,DEN
+468,Aruba,ARU
+469,Buscape II,BRA
+470,Nina,FIN
+471,Norway-3,NOR
+472,Kristiania Roklub-1,NOR
+473,Kristiania Roklub,NOR
+474,Ormsund Roklub-2,NOR
+475,Chuckles,GBR
+476,South Africa-2,RSA
+477,Chinese Taipei,TPE
+478,Ireland-2,IRL
+479,Winnipeg Shamrocks-1,CAN
+480,Olle,FRA
+481,United States-10,USA
+482,Camelia,POR
+483,Aschenbrodel,GER
+484,Whitini Star,FRA
+485,Puerto Rico-1,PUR
+486,Bera,NOR
+487,Netherlands-2,NED
+488,Slaghoken,SWE
+489,Slaghoken II,SWE
+490,Great Britain/Germany,GBR
+491,Nikh,GRE
+492,Swift,GBR
+493,Andorinha,BRA
+494,Unified Team-1,EUN
+495,Cupidon III,ARG
+496,Athens-2,GRE
+497,Bulgaria-2,BUL
+498,Marga-2,SWE
+499,Serendipity,CAN
+500,L'Aile VI,FRA
+501,Cercle de l'Aviron Roubaix-4,FRA
+502,Caprice,CAN
+503,"New College, Oxford-2",GBR
+504,Compigne Polo Club,FRA
+505,Vision,GBR
+506,Cambridge University Boat Club-2,GBR
+507,Trickson VI,CAN
+508,St. Rose-2,USA
+509,Calcinhas,POR
+510,Gteborgs Roddfrening-2,SWE
+511,Minerva Amsterdam,NED
+512,Chamukina,MEX
+513,Nausikaa 4,MEX
+514,New York Athletic Club-1,USA
+515,Arcturus,ARG
+516,Belgium-1,BEL
+517,St. Louis Southwest Turnverein #1-2,USA
+518,Nauru,NRU
+519,Jo,NOR
+520,Lucky Star,GBR
+521,Namoussa,FRA
+522,Briar,SWE
+523,Panhellenios Gymnastikos Syllogos-1,GRE
+524,Netherlands-1,NED
+525,Gabbiano,AUS
+526,Gran Gesto,CAN
+527,Ceres II,GBR
+528,Covunco III,ARG
+529,Chicago Archers,USA
+530,Royal Club Nautique de Gand,BEL
+531,Roddklubben af 1912-1,SWE
+532,Roddklubben af 1912-2,SWE
+533,Bucintoro Venezia-1,ITA
+534,Bucintoro Venezia,ITA
+535,Edelweiss II-1,BEL
+536,Bamba,ITA
+537,Rush IV,USA
+538,Boston Archers,USA
+539,Ali-Baba II,SUI
+540,Ali-Baba IV,SUI
+541,Ali-Baba VI,SUI
+542,Ali-Baba IX,SUI
+543,Upton Park FC,GBR
+544,"BLO Polo Club, Rugby",GBR
+545,Hurlingham-2,GBR
+546,Leander Club-1,GBR
+547,Indonesia-2,INA
+548,Western Rowing Club-3,USA
+549,Pigoule,FRA
+550,South Vietnam,VNM
+551,Snowten III,FRA
+552,Hungaria,HUN
+553,Libellule de Paris,GBR
+554,Scram,CAN
+555,United States Virgin Islands-2,ISV
+556,United States Virgin Islands-1,ISV
+557,Amstel Amsterdam,NED
+558,Scotland-3,GBR
+559,Peri II,ZIM
+560,Liverpool Police Team-2,GBR
+561,Vinha,AUS
+562,Fantasio III,SUI
+563,Pousse-Moi Pas VII,SUI
+564,Norwegian Rowing Association,NOR
+565,LaBandera,FRA
+566,Gilliatt V,FRA
+567,United States Golf Association-3,USA
+568,Trans-Mississippi Golf Association-2,USA
+569,China-2,CHN
+570,China-1,CHN
+571,Sarcelle-35,FRA
+572,Sarcelle-3,FRA
+573,Tango,ARG
+574,Argentina-1,ARG
+575,Brynhild-2,GBR
+576,Espuma del Mar,VEN
+577,Twins II,ITA
+578,Pupilles de Neptune de Lille #2-1,FRA
+579,Beaver,CAN
+580,Monaco-2,MON
+581,Baccara,SUI
+582,Cobweb-1,GBR
+583,Ral-Club Barcelona,ESP
+584,Vietnam,VIE
+585,Elvis Va,GER
+586,Romolo,ITA
+587,Aldebaran II,ITA
+588,Aldebaran,ITA
+589,Argus,POR
+590,Galatea II,ITA
+591,Twins VIII,ITA
+592,Antwerpia V,BEL
+593,Lotta IV,SWE
+594,Saga-2,SWE
+595,Mari,SWE
+596,Paula,AUS
+597,Oranje,NED
+598,Willem-Six,NED
+599,DeRuyter,NED
+600,Acturus,ARG
+601,Societ Nautique de la Marne,FRA
+602,Mexico-2,MEX
+603,Teresita,FIN
+604,Barion/Bari-2,ITA
+605,Eissero VI,FRA
+606,New York Athletic Club-4,USA
+607,K Division Metropolitan Police Team-3,GBR
+608,Israel-1,ISR
+609,Hong Kong-1,HKG
+610,Malaysia-1,MAS
+611,Cambodia,CAM
+612,Complex II,USA
+613,Allegro,FRA
+614,Gam II,FRA
+615,Ylliam VIII,SUI
+616,Quand-Mme-33,FRA
+617,Quand-Mme-2,FRA
+618,United States-9,USA
+619,Berliner Ruderclub Sport-Borussia-1,GER
+620,Smyrna,GBR
+621,Chinese Taipei-2,TPE
+622,Calimucho,FRA
+623,Bhutan,BHU
+624,North Korea-1,PRK
+625,Malaysia-2,MAS
+626,Kingfisher,MYA
+627,Yangon,MYA
+628,Gustel V,GER
+629,Sonja II,NOR
+630,Jill,DEN
+631,Kiel,DEN
+632,KNS,NOR
+633,Galt Football Club,CAN
+634,Tim-Tam III,SUI
+635,Uragan,URS
+636,Kon-Tiki,URS
+637,Babe,USA
+638,Poland-2,POL
+639,Antares,ARG
+640,Venilia,ITA
+641,Hatuey,CUB
+642,Mauritius-1,MRI
+643,Cincinnati Archers,USA
+644,Morena,DEN
+645,Libellule de Paris,FRA
+646,Libellule de Paris-3,FRA
+647,Societ Nautique de la Marne-3,FRA
+648,"Osborne Swimming Club, Manchester",GBR
+649,Brussels Swimming and Water Polo Club,BEL
+650,Ancora,GBR
+651,Saskia,GBR
+652,Wales-4,GBR
+653,SagaII,CAN
+654,Gem,BAH
+655,June Climene,SGP
+656,Cambria,AUS
+657,Oleander XII,BER
+658,Phoenix,HKG
+659,Ylliam VII,SUI
+660,Ballerina IV,SUI
+661,Chicago Athletic Association,FRA
+662,Calypse II,FRA
+663,Scotland,GBR
+664,Scotland-2,GBR
+665,Ciocca,ITA
+666,Esperia,ITA
+667,Tournade-40,FRA
+668,Tornade-16,FRA
+669,Galejan,SWE
+670,Great Britain-4,GBR
+671,Cuba-1,CUB
+672,Marshall Islands,MHL
+673,United States-6,USA
+674,Santa Maria,CAN
+675,Dormy-1,GBR
+676,Umberta V,ITA
+677,Rozenn-3,FRA
+678,Jest,NZL
+679,Magdalen College Boat Club-1,GBR
+680,Western Golf Association-1,USA
+681,Scotia,GBR
+682,Red Dragon,NZL
+683,"R.-V. Germania, Leitmeritz",AUT
+684,Hungary-1,HUN
+685,Akatonbo,IRL
+686,Terrible,BRA
+687,Elisabeth V,NOR
+688,Studenternes Roklub-2,NOR
+689,Rififi,FIN
+690,New York Athletic Club #1-1,USA
+691,Partenope,INA
+692,Bermudes,BER
+693,England,GBR
+694,Cornwall,GBR
+695,Kiribati,KIR
+696,United States-7,USA
+697,Diablo,AUS
+698,Beaver,GBR
+699,Plume-patte-32,FRA
+700,Plume-Patte-5,FRA
+701,Pierre et Jean-3,FRA
+702,Pierre et Jean-4,FRA
+703,Espadarte,POR
+704,Fruits,ESP
+705,Belgium-2,BEL
+706,Sidi Fekkar-36,FRA
+707,Sidi-Fekkar-14,FRA
+708,Souvenance,FRA
+709,Meteor,BEL
+710,Kurush IV,CUB
+711,Vesania,CUB
+712,Kurush II,CUB
+713,Canopus,POR
+714,Crabe I-11,FRA
+715,Crabe I-3,FRA
+716,Crabe I-2,FRA
+717,Gwendoline-22,FRA
+718,Gwendoline-2,FRA
+719,United States/France,USA
+720,Vicking,POR
+721,Daisy,NED
+722,Virginie,FRA
+723,Acipactli,MEX
+724,Belgium-4,BEL
+725,Pegaso,ITA
+726,"BLO Polo Club, Rugby",FRA
+727,Girl Pat,BEL
+728,Fada,FRA
+729,Bu III,BRA
+730,Lerina,SUI
+731,"Bagatelle Polo Club, Paris",FRA
+732,Bem II,NED
+733,St. Margrite,NED
+734,Hollandia,NED
+735,Aphrodite,USA
+736,United States/France,FRA
+737,Bonzo,DEN
+738,Socit Nautique de la Basse Seine-1,FRA
+739,Socit Nautique de la Basse Seine-2,FRA
+740,Univ. of Brussels,BEL
+741,"Concordia Turnverein, St Louis",USA
+742,Rowing Club Castillon-3,FRA
+743,Frip IV,FRA
+744,Mad Dog,CAN
+745,Hb-24,FRA
+746,Hb-20,FRA
+747,"South St Louis Turnverein, St Louis",GER
+748,Century Boat Club-1,USA
+749,Unique,GBR
+750,Pan-Hellenic Athletic Club,GRE
+751,"Phalainis ton Thorichtou ""Hydra""-2",GRE
+752,Viking,NOR
+753,Silja,NOR
+754,Bermudian,BER
+755,Dresden,CAN
+756,United States/Great Britain,GBR
+757,Mignon-29,FRA
+758,Mignon-3,FRA
+759,Favorite-17,FRA
+760,Favorite-1,FRA
+761,St. Louis Amateur Athletic Association,USA
+762,Naiad,AUS
+763,Pakaria,AUS
+764,Ireland,GBR
+765,Ireland-3,GBR
+766,Serbia-2,SRB
+767,United States-14,USA
+768,Oxalis,POR
+769,Gitana-21,FRA
+770,Gitana-2,FRA
+771,Joy,NED
+772,Thalatta,NED
+773,Trintel II,NED
+774,"Central Turnverein, Chicago",USA
+775,Galopin-20,FRA
+776,Galopin-9,FRA
+777,France-4,FRA
+778,Berliner Ruderclub,GER
+779,Rhythm,USA
+780,"Turnverein Vorwrts, Chicago",USA
+781,Guanahani,BAH
+782,Unknown,UNK
+783,Spirit III,USA
+784,Pannonia RC/National RC,HUN
+785,Bella,FIN
+786,May-Be 1960,AUT
+787,May Be,SWE
+788,Inga-Lill XXXXIII,FIN
+789,Mexico-1,MEX
+790,Nirwana,GER
+791,Omilos Ereton Peiraios-2,GRE
+792,Llanoria,USA
+793,Marmi II-1,NOR
+794,Kitty-1,SWE
+795,Vaxholm Roddklubb,SWE
+796,Tuvalu,TUV
+797,A North American Team,MEX
+798,Nirefs,GRE
+799,Proteus II,GRE
+800,Finn II,FIN
+801,Impala,RSA
+802,Missouri Athletic Club-3,USA
+803,Pam,BER
+804,Oleander II,BER
+805,Apache,NOR
+806,Olle,GBR
+807,Roklubb Kbnhavn-2,DEN
+808,Tu-Fri,FIN
+809,Tutti V,EST
+810,Cha-Cha III,YUG
+811,Augsburg,ITA
+812,Leander Club #2-2,GBR
+813,Ariel,CAN
+814,Encore,NOR
+815,Feo,GBR
+816,Seawanhaka Boat Club-1,USA
+817,Gem II,GBR
+818,Gem III,BAH
+819,Gem IV,BAH
+820,Gem VII,BAH
+821,Pupilles de Neptune de Lille #1-3,FRA
+822,Chaje II,FIN
+823,Ludwigshafener Ruder Verein-1,GER
+824,Leander Club #1-1,GBR
+825,Dylan-2,GBR
+826,Moorina,AUS
+827,30. Februar,AUT
+828,Cercle Nautique de Reims-4,FRA
+829,Cuba-2,CUB
+830,Struten,NOR
+831,Gyrinus-1,GBR
+832,Ylliam II,SUI
+833,East Germany-3,GDR
+834,Paka V,GER
+835,Brigantia,AUT
+836,Sydney Rowing Club,ANZ
+837,Espardate,POR
+838,Australia/Great Britain,AUS
+839,Kannibaltje,FRA
+840,Milwaukee Athletic Club-1,USA
+841,Xantippa,FIN
+842,Skum,DEN
+843,Miss Denmark 1964,DEN
+844,Kemphaan,NED
+845,Helsingfors R. K.,FIN
+846,Newfoundland,NFL
+847,Emily,GBR
+848,Fram III,NOR
+849,Mizar,ARG
+850,Ubu,BEL
+851,Lalage,BEL
+852,St. Louis Southwest Turnverein #2-3,USA
+853,"Socialer Turnverein, Detroit",USA
+854,Bohemia-1,BOH
+855,Essen,JPN
+856,Miss Nippon V,JPN
+857,Argeste,ITA
+858,Gullvinge,ARG
+859,United States-4,USA
+860,South Korea-1,KOR
+861,Bajazzo,URU
+862,Cinara-13,FRA
+863,Ilderim,SWE
+864,Tantalus,GER
+865,Peiraikos Syndesmos-2,GRE
+866,Baby-9,FRA
+867,Baby-1,FRA
+868,Femur-18,FRA
+869,Femur-1,FRA
+870,"Bagatelle Polo Club, Paris",GBR
+871,Smyrna,FRA
+872,Kosovo,KOS
+873,Colette-10,FRA
+874,Colette-12,FRA
+875,Germany/United States,USA
+876,"Germania Ruder Club, Hamburg",GER
+877,Freddy,BEL
+878,Rika II,SGP
+879,Korshun,URS
+880,Hungary-2,HUN
+881,Patricia,PHI
+882,Tlaloc,MEX
+883,Springbok,RSA
+884,Aretusa,ITA
+885,Quicksilver-2,GBR
+886,Viktoriya,URS
+887,"Germania Ruder Club, Hamburg-2",GER
+888,Omilos Ereton Smyrnis,GRE
+889,Belarus-2,BLR
+890,Alcaid,POR
+891,Finland-1,FIN
+892,Finland-2,FIN
+893,Alain IV,SUI
+894,Jupiter,USA
+895,Three Leaves,IRL
+896,"Philadelphia Turngemeinde, Philadelphia",USA
+897,K.S.S.S. 1912-2,SWE
+898,Unified Team-3,EUN
+899,Paka,GBR
+900,Sheerio,FIN
+901,Pan II,NOR
+902,Pasodoble,ESP
+903,Freja,SWE
+904,India-2,IND
+905,Sass-2,SWE
+906,Roy,JPN
+907,Ukraine-1,UKR
+908,Deutscher Schwimm Verband Berlin,GER
+909,Jet,CAN
+910,Belgium-3,BEL
+911,Shrew II,USA
+912,Sylvia,SWE
+913,Salamander,GBR
+914,Denmark-3,DEN
+915,Ingegerd,SWE
+916,Slovakia-2,SVK
+917,Johan,GBR
+918,Germany/United States,GER
+919,Jamaica-2,JAM
+920,Andromeda,GBR
+921,Hornet,AUS
+922,South Sudan,SSD
+923,Chicago Athletic Association,USA
+924,Sweden-4,SWE
+925,Chance,SWE
+926,Brat,GBR
+927,Yeoman V,RSA
+928,Knigsberg,HUN
+929,Don Schufro,DEN
+930,Vinga-1,SWE
+931,Aloha II,SWE
+932,Raili,FIN
+933,Syndi,CAN
+934,Vento Sul,BRA
+935,Sans Atout-1,SWE
+936,Miss Nippon IV,JAM
+937,Union des Socits Franais de Sports Athletiques,HAI
+938,Racing Club de France,COL
+939,New Zealand-1,NZL
+940,Tramontane,FRA
+941,"Turnverein Vorwrts, Chicago",GER
+942,Sandra,FRA
+943,"Milwaukee Turnverein, Milwaukee",USA
+944,Nurdug II,DEN
+945,Eleda,NOR
+946,Lbeck,BRA
+947,Yeoman,BAH
+948,Boer Team,RSA
+949,Beatrijs III-1,NED
+950,Lancet,GBR
+951,Vinha,FIN
+952,West Germany-3,FRG
+953,Lesotho,LES
+954,Ravenswood Boat Club-2,USA
+955,Whisper,JPN
+956,Irene,NOR
+957,Balaton,HUN
+958,Kuling,SWE
+959,Sif,SWE
+960,Djinn,ARG
+961,Mascotte,NED
+962,Bona Fide,GBR
+963,Laurea-1,GBR
+964,Skidoo,USA
+965,Pupilles de Neptune de Lille #1-3,BEL
+966,Tomahawk II,CAN
+967,Pan,GER
+968,Whirlaway,CAN
+969,Sorais-2,GBR
+970,Minotaur,USA
+971,United States-5,USA
+972,Surprise,AUT
+973,Zut,BEL
+974,Tan-Fe-Pah,BEL
+975,Ciss,BEL
+976,Australia-3,AUS
+977,Bohemia-3,BOH
+978,Lucky Star,FIN
+979,Boreas,JPN
+980,MitaII,JPN
+981,Escapade,BRA
+982,Joy,GBR
+983,Slovakia-1,SVK
+984,Ralia,FIN
+985,Clearwater,DEN
+986,Angerburg,USA
+987,Singapore-2,SGP
+988,United States-8,USA
+989,United States/Great Britain,USA
+990,Barco Deloro,NED
+991,Dick-8,FRA
+992,Yugoslavia-2,YUG
+993,Kalayaan,PHI
+994,Bohemia-2,BOH
+995,Olimpia,HUN
+996,Macky VI,GER
+997,Nrnberg,NED
+998,Nephos I,GRE
+999,Tengiri,INA
+1000,Hayama,SWE
+1001,Rush VII,SWE
+1002,Rush V,SWE
+1003,Ethnikos Gymnastikos Syllogos,GRE
+1004,Foxhunters Hurlingham,USA
+1005,John B,BAH
+1006,Bim,BAH
+1007,Bonaparte,GER
+1008,North Korea-2,PRK
+1009,Mythilus,USA
+1010,Rambo,JPN
+1011,Floresco,SWE
+1012,Hong Kong-2,HKG
+1013,Luxembourg-2,LUX
+1014,Lucky,NOR
+1015,Spirit VI,USA
+1016,Lully II,NOR
+1017,Sildra-1,NOR
+1018,Noreg,NOR
+1019,Subbnboana,GER
+1020,"Phalainis ton Thorichtou ""Psara""-3",GRE
+1021,Slovenia-1,SLO
+1022,Rostock,GER
+1023,St. Louis Southwest Turnverein #2-3,GER
+1024,Norman-1,RUS
+1025,Olympion,GRE
+1026,"South St Louis Turnverein, St Louis",USA
+1027,Sunshine,SWE
+1028,Heidelberg,URU
+1029,Amulet-7,FRA
+1030,Amulet-3,FRA
+1031,Omas Helliniki P. S.,GRE
+1032,Crocodile-13,FRA
+1033,Crocodile-11,FRA
+1034,Leipzig,FRA
+1035,Red Indian,FRA
+1036,Alcyon-6,FRA
+1037,Alcyon-7,FRA
+1038,Suzon IV-39,FRA
+1039,Suzon IV-5,FRA
+1040,"Philadelphia Turngemeinde, Philadelphia",AUT
+1041,Mascaret-28,FRA
+1042,Mascaret-4,FRA
+1043,Poland-3,POL
+1044,Sibindi-2,GBR
+1045,Pupilles de Neptune de Lille-1,FRA
+1046,Combine,BAH
+1047,"Osborne Swimming Club, Manchester",NZL
+1048,Aloha II,FRA
+1049,Stade Franais AC-2,FRA
+1050,Kathleen,USA
+1051,Club Nautique de Lyon-2,FRA
+1052,Holland,NED
+1053,Starita,NED
+1054,United States-12,USA
+1055,Argo II,CAN
+1056,State VI,CAN
+1057,Frimousse,USA
+1058,Denmark-4,DEN
+1059,Portugal-2,POR
+1060,France/Great Britain,GBR
+1061,Gyp-23,FRA
+1062,Gyp-6,FRA
+1063,Zefyros,GRE
+1064,Pirouette-31,FRA
+1065,Pirouette-5,FRA
+1066,Societ Nautique de la Marne-1,FRA
+1067,Mebi,ITA
+1068,Slovenia-2,SLO
+1069,Riccar,JPN
+1070,Japan-3,JPN
+1071,Lynn,FIN
+1072,Neptun II,URS
+1073,Potomac Archers,USA
+1074,Ireland-1,IRL
+1075,"BLO Polo Club, Rugby",USA
+1076,Brentina,USA
+1077,Nan-2,GBR
+1078,Hannover,POR
+1079,Scamasaxe-34,FRA
+1080,Scamasaxe-2,FRA
+1081,Scamasaxe-3,FRA
+1082,Three Star Too,USA
+1083,Bellatrix IX,GER
+1084,Bellatrix XIII,GER
+1085,Jeanette-25,FRA
+1086,Jeannette-18,FRA
+1087,Turquoise-1,FRA
+1088,Turquoise-3,FRA
+1089,Roehampton-1,GBR
+1090,Glisten,CAN
+1091,Nadine,NED
+1092,Grifone,ITA
+1093,Canopus,ESP
+1094,Twinkle,GBR
+1095,Myojo,JPN
+1096,Ducky-16,FRA
+1097,Ducky-4,FRA
+1098,Rose Pompon,FRA
+1099,Souriceau-38,FRA
+1100,Souriceau-4,FRA
+1101,United States-11,USA
+1102,Lady C,GBR
+1103,Frieda,USA
+1104,Marsouin-26,FRA
+1105,Marsouin-8,FRA
+1106,Persey,URS
+1107,Hi-Hi,DEN
+1108,Atalanta Boat Club-1,USA
+1109,Atalanta Boat Club-2,USA
+1110,Wendehals,GER
+1111,New York Athletic Club,USA
+1112,Titia,GBR
+1113,Pimm,BRA
+1114,Gustel X,GER
+1115,Gustl XI,GER
+1116,Thailand-1,THA
+1117,Pop Art,CAN
+1118,"Norwegier Turnverein, Brooklyn",NOR
+1119,Denmark/Sweden,SWE
+1120,Barrenjoey,AUS
+1121,South Africa-1,RSA
+1122,Voloira II,ITA
+1123,Uzbekistan-2,UZB
+1124,Bremen,FIN
+1125,Quando Quando,AUS
+1126,Donar III,AUT
+1127,Hojwa,SWE
+1128,Tineke,USA
+1129,Danuta,POL
+1130,Maryke,AUS
+1131,Falcon VI,AUS
+1132,Thailand-2,THA
+1133,Manana,CAN
+1134,Pandora,NZL
+1135,Rampage,ARG
+1136,Diabolo St Maurice,FRA
+1137,Ravel,USA
+1138,Humbug V,SWE
+1139,Astrid III,FRA
+1140,Kln,SUI
+1141,Demi-Mondaine-15,FRA
+1142,Demi-Mondaine-17,FRA
+1143,Nokaut II,URS
+1144,Almaz,URS
+1145,Tulilind,URS
+1146,Tornado,URS
+1147,Taifun,URS
+1148,New Zealand-2,NZL
+1149,Notavel,POR
+1150,Galopin De La Font,POR
+1151,Margaret,USA
+1152,Portugal-1,POR
+1153,France/Great Britain,FRA
+1154,Comanche,USA
+1155,Royal Club Nautique de Gand,GRE
+1156,Cicely-1,GBR
+1157,Ma'Lindo,POR
+1158,Harmony,NZL
+1159,Independent Rowing Club-3,USA
+1160,Marie-Tim,GRE
+1161,Uzbekistan-1,UZB
+1162,Orion,CAN
+1163,Merope,MLT
+1164,Australia/Great Britain,GBR
+1165,Scaup,CAN
+1166,Legionario,ITA
+1167,Merope,ITA
+1168,Merope III,ITA
+1169,Enotria,ITA
+1170,Verveine-41,FRA
+1171,Verveine-19,FRA
+1172,Union des Socits Franais de Sports Athletiques,USA
+1173,Bohemia/Great Britain,BOH
+1174,Ariette-8,FRA
+1175,Ariette-10,FRA
+1176,Amateur Athletic Association,AUS
+1177,Greenoaks Dundee,AUS
+1178,Fantlet-2,FRA
+1179,Fantlet-7,FRA
+1180,Maid of Lebanon,LIB
+1181,Danaldo,JPN
+1182,Lyn-2,NOR
+1183,Sunrise,NED
+1184,Falcon IV,AUS
+1185,Potsdam,GBR
+1186,Giselle-6,FRA
+1187,United States-13,USA
+1188,China-3,CHN
+1189,Ardilla,ARG
+1190,Greece-4,GRE
+1191,Windor,CAN
+1192,Vim III,USA
+1193,Lasha,SWE
+1194,Hilarius,USA
+1195,Hakahana,RSA
+1196,Glider,USA
+1197,Jamaica-1,JAM
+1198,Squid III,FIN
+1199,Singapore-1,SGP
+1200,Mamie-4,FRA
+1201,C.V.A.-14,FRA
+1202,Singy-37,FRA
+1203,C.V.A.-7,FRA
+1204,Mamie-6,FRA
+1205,Singy-7,FRA
+1206,Univ. of Brussels,GBR
+1207,Hamburg,NOR
+1208,Mac Miche,FRA
+1209,Camille,FRA
+1210,Serbia-1,SRB
+1211,Great Britain/Germany,GER
+1212,Cuxhaven,TUR
+1213,Formosa,USA
+1214,Danzig,BEL
+1215,Salinero,NED
+1216,Univ. of Brussels,NED
+1217,Sjovinge,SWE
+1218,Brandenburg,EST
+1219,Hungary-3,HUN
+1220,Bohemia/Great Britain,GBR
+1221,Freia-19,FRA
+1222,Freia-5,FRA
+1223,Luxembourg-1,LUX
+1224,Satchmo,GER
+1225,Sea Dog-2,GBR
+1226,Omilos Ereton Smyrnis,GBR
+1227,Mainz,CHI
+1228,Solos Carex,SWE
+1229,A North American Team,USA
+1230,Dow Jones,JPN
+1231,Digby,DEN

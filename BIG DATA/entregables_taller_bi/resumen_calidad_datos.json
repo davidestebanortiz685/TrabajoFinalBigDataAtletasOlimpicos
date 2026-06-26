@@ -1,0 +1,48 @@
+{
+  "summary": {
+    "participaciones": 269798,
+    "atletas_dim": 187433,
+    "atletas_originales": 135571,
+    "equipos": 1231,
+    "noc": 230,
+    "ediciones": 52,
+    "competencias": 765,
+    "deportes": 66,
+    "medallas": 39773,
+    "oro": 13369,
+    "plata": 13109,
+    "bronce": 13295,
+    "anio_min": 1896,
+    "anio_max": 2016,
+    "tasa_medalla": 14.74
+  },
+  "quality": {
+    "source_rows": {
+      "Athletes_Games.csv": 187433,
+      "Edition_Games.csv": 52,
+      "equipos_Games.csv": 1231,
+      "Events_Olimpycs.csv": 269798,
+      "JJ.OO.csv": 269798
+    },
+    "duplicated_rows": {
+      "Athletes_Games.csv": 0,
+      "Edition_Games.csv": 0,
+      "equipos_Games.csv": 0,
+      "Events_Olimpycs.csv": 0,
+      "JJ.OO.csv": 0
+    },
+    "nulls_total": {
+      "Athletes_Games.csv": 0,
+      "Edition_Games.csv": 0,
+      "equipos_Games.csv": 0,
+      "Events_Olimpycs.csv": 0,
+      "JJ.OO.csv": 0
+    },
+    "foreign_key_orphans": {
+      "fact_atleta_no_dim": 0,
+      "fact_equipo_no_dim": 0,
+      "fact_edicion_no_dim": 0,
+      "fact_competencia_no_dim": 0
+    }
+  }
+}
